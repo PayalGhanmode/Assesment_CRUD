@@ -1,0 +1,30 @@
+/* App.css */
+.app-container {
+    padding: 2rem;
+    font-family: sans-serif;
+  }
+  
+  input[type="text"],
+  input[type="date"] {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    font-size: 1rem;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
