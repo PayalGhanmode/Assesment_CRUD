@@ -1,4 +1,4 @@
-# Leo Project
+# Nurology Project
 
 This repository contains two parts:
 
